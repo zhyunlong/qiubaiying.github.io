@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 414228693@qq.com
 description: "Every failure is leading towards success."
 keyword: "云龙的博客"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://zhyunlong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/zhyunlong/zhyunlong.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -50,7 +50,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: yunlong
 
 # Gitalk
 gitalk:
@@ -58,8 +58,8 @@ gitalk:
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  owner: zhyunlong    #github用户名
+  admin: zhyunlong
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -88,22 +88,5 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
-
-# Friends
-friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
 
 theme: jekyll-theme-cayman

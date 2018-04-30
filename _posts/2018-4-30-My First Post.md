@@ -1,4 +1,3 @@
-
 ---
 layout:     post                    # 使用的布局（不需要改）
 title:      My First Post               # 标题 
